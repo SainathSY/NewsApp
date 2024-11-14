@@ -1,3 +1,5 @@
+### To use app locally create a .env.local file in the root folder and add REACT_APP_NEWSAPI_KEY="Yours News API key" in it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
